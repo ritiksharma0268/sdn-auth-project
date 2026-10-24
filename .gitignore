@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.backup
+*.save
+*.before-forwarding-fix
+*.pre-controller-backup
+logs/
+.env
+.venv/
+venv/
